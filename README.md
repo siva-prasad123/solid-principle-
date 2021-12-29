@@ -1,5 +1,12 @@
 # solid-principle-
 
+
+Single Responsibility Principle
+This states that a class should have a single responsibility, but more than that, a class should only have one reason to change.
+
+Taking an example of the (simple) class called Page.
+
+
 import json
 
 class Page():
